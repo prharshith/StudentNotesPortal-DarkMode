@@ -1,4 +1,4 @@
-# © Students Notes Website Backup Dark Mode TEAM AMH 2022
+# © Students Notes Website Dark Mode TEAM AMH 2022
 
 © ALL RIGHTS RESERVED BY TEAM AMH 2022. 
 
