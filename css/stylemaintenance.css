@@ -38,8 +38,8 @@ h1 {
 }
 
 p {
-  text-align: center;
-  color: rgb(255, 255, 255);
+  text-align: left;
+  color: #444;
   letter-spacing: 0.05em;
   font-size: 0.8em;
   margin: 0 0 2em;
@@ -265,7 +265,7 @@ body {
 
 .notfound p {
   font-family: 'Lato', sans-serif;
-  color: rgb(255, 255, 255);
+  color: #000;
   font-weight: 400;
   margin-top: 20px;
   margin-bottom: 25px;
